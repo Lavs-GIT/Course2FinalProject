@@ -1,0 +1,18 @@
+body {
+    background-color:Teal;
+    font-family:sans-serif;
+    
+  }
+  
+  .top{
+    width:550px;
+    padding:20px;
+    border-radius:25px;
+    background-color:pink;
+    text-align:center;
+    margin: auto;
+  }
+  
+  footer{
+    text-align:center;
+  }
